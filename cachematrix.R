@@ -3,7 +3,7 @@
 ## caches its inverse.
 
 ## The following function creates a special "matrix", which is really a
-## list containing a function to
+## list of functions
 ## - set which sets the value of the matrix
 ## - get which gets the value of the matrix
 ## - setinv which sets the value of the inverse of the matrix
